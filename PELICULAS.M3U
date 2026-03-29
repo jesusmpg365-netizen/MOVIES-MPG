@@ -1,20 +1,13 @@
 #EXTM3U
 
-
-#EXTINF:-1 group-title="Peliculas",4 fantasticos FILE MOON
-https://be7713.rcr82.waw05.r66nv9ed.com/hls2/08/09913/c0feq0l22icq_x/master.m3u8?t=frdX9yDT4zDJ8PFNoEnFmp-zrVpEh6jwKXhuiguWoKg&s=1774742108&e=10800&f=49583582&srv=1070&asn=8151&sp=5500&p=0
-
-#EXTINF:-1 group-title="Peliculas",4 fantasticos POW VIDEO
+#EXTINF:-1 group-title="Peliculas",4 FANTASTICOS VIDEO
 https://stream-4338-55-56.pkcdn.org/dash/kyohoqbxbyikkfn2ma77smq6eut73xw6ymdtu3yn53jynhp344bad3yiyu/manifest.mpd
 
 #EXTINF:-1 group-title="Peliculas",Toy Story (1995)
-https://be7713.rcr82.waw05.r66nv9ed.com/hls2/08/09279/2lnqv4qr0dq7_x/master.m3u8?t=yj92yKdUoJUHRQMRw7XrN2gm0ptsZXa4kV1Cjxb6DwM&s=1774753623&e=10800&f=46396915&srv=1070&asn=8151&sp=5500&p=0
 
 #EXTINF:-1 group-title="Peliculas",Toy Story 2 (1999)
-https://edge1-prague-sprintcdn.r66nv9ed.com/hls2/04/09279/pmldtsybh9is_x/master.m3u8?t=WnXUM5Za1m_XLKdeLEDDPUDC1qO2h7Cv_Nh2hOlJXCk&s=1774753711&e=10800&f=46396967&srv=1050&asn=8151&sp=5500&p=0
 
 #EXTINF:-1 group-title="Peliculas",Toy Story 3 (2010)
-https://edge1-prague-sprintcdn.r66nv9ed.com/hls2/05/09279/e0r493r9e8oi_x/master.m3u8?t=y-TRsnr2FfniUneri2aBYuwEYOrgK5q5JB6-Q4ojycQ&s=1774753771&e=10800&f=46396777&srv=1065&asn=8151&sp=5500&p=0
 
 #EXTINF:-1 group-title="Peliculas",BUGONIA (2025)
 https://stream-3638-215-22.pkcdn.org/dash/leohoukyb4iepqf2maw7sn2ieaerkrpyfleadcs66cj476xzxqfksz4rbq/manifest.mpd
@@ -22,19 +15,13 @@ https://stream-3638-215-22.pkcdn.org/dash/leohoukyb4iepqf2maw7sn2ieaerkrpyfleadc
 #EXTINF:-1 group-title="Peliculas",HELP (2026)
 https://stream-4891-212-105.pkcdn.org/dash/juoho2syb4iepqf2maw7s3izenahamd2gmmq5x7hljqpatat43gu4n5mri/manifest.mpd
 
-#EXTINF:-1 group-title="Peliculas",FRANKENSTEIN (2026)
-https://cdn-fnki63lx3jlyurbf.edgeon-bandwidth.com/engine/hls2-c/01/15758/m9wdq6lgdcru_,n,.urlset/index-v1-a1.m3u8?t=JYMia4Otqh81z2tsQLLvwVHZFum3WRtOyL5THP_VjVM&s=1774816450&e=14400&f=78790208&node=H9IVlXCRF0dh2ZbNGp5xuVXClHr1kI0JsVYuNMtkoIY=&i=189.239&sp=2500&asn=8151&q=n&rq=NtC8fd8GDoLul8szSNVmiDdQw7nfh9wBu0b2vvij
 
-#EXTINF:-1 group-title="Peliculas",FRANKENSTEIN (2026)
-https://p2.vimeos.zip/hls2/03/00006/1j7nbysxceft_,n,h,.urlset/master.m3u8?t=BnD1DFg_CQ7YpOV9pC5hyG7wzGJK_XGuRM4wTVgpb7k&s=1774816580&e=43200&v=157686715&srv=s10&i=0.3&sp=0&fr=1j7nbysxceft&r=e
+#EXTINF:-1 group-title="Peliculas",MATATE AMOR (2025)
+#EXTVLCOPT:sub-file=https://powcloub.org/srt/01335/jd12jkje9ef6_Spanish.srt
+https://stream-4338-55-56.pkcdn.org/dash/kyoho5cyb4iepqf2maw7spq3muz56zatuzjx2yzwxesw5zx2w4qoorv37y/manifest.mpd
 
-#EXTINF:-1 group-title="Peliculas",GOAT (2026)https://hlswish.com/stream/NxOD0yHgRg6EOQvJPl_yUw/kjhhiuahiuhgihdf/1774860457/69647135/master.m3u8
-
-#EXTINF:-1 group-title="Peliculas",GOAT (2026)
-https://vimeos.zip/hls2/02/00010/m0telmxlo7ns_h/index-v1-a1.m3u8?t=QWgEx6nygkd57xMoASJPQtmkk1TWoaxFJ2lwzF9HLFg&s=1774817318&e=43200&v=157707738&srv=s1&i=0.0&sp=0&fr=m0telmxlo7ns&r=e
-
-#EXTINF:-1 group-title="Peliculas",Inocencia interrumpida 
-https://edge1-madrid-sprintcdn.r66nv9ed.com/hls2/09/10290/6xmphuo575oh_x/master.m3u8?t=kdirzD4xiHg2BCdZ9WuZkwsjnoFuoKYvVxALJ0Oz3D0&s=1774816219&e=10800&f=51452298&srv=1055&asn=8151&sp=5500&p=0
+#EXTINF:-1 group-title="Peliculas",AMORES MATERIALISTAS 2025
+https://be7713.rcr82.waw05.r66nv9ed.com/hls2/05/09871/kpqkomz0wn7r_x/master.m3u8?t=G4Y7uZsDHt9fPwv249aTV6ptPy10e3ODtrdkWF1_tSc&s=1774819057&e=10800&f=49357098&srv=1055&asn=8151&sp=5500&p=0
 
 #EXTINF:-1 group-title="Peliculas",THUNDERBOLTS 
 https://stream-4091-31-168.pkcdn.org/dash/kuoho7syb4iepqf2maw7sn2ogv2hsn2laylwvfzkcunlurxb7zn36qf2xy/manifest.mpd
