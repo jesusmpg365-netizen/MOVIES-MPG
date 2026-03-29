@@ -29,7 +29,8 @@ https://cdn-fnki63lx3jlyurbf.edgeon-bandwidth.com/engine/hls2-c/01/15758/m9wdq6l
 https://p2.vimeos.zip/hls2/03/00006/1j7nbysxceft_,n,h,.urlset/master.m3u8?t=BnD1DFg_CQ7YpOV9pC5hyG7wzGJK_XGuRM4wTVgpb7k&s=1774816580&e=43200&v=157686715&srv=s10&i=0.3&sp=0&fr=1j7nbysxceft&r=e
 
 #EXTINF:-1 group-title="Peliculas",GOAT (2026)https://hlswish.com/stream/NxOD0yHgRg6EOQvJPl_yUw/kjhhiuahiuhgihdf/1774860457/69647135/master.m3u8
-#EXTINF:-1 group-title="Peliculas",GOAT (2026)https://hlswish.com/stream/NxOD0yHgRg6EOQvJPl_yUw/kjhhiuahiuhgihdf/1774860457/69647135/master.m3u8
+
+#EXTINF:-1 group-title="Peliculas",GOAT (2026)
 https://vimeos.zip/hls2/02/00010/m0telmxlo7ns_h/index-v1-a1.m3u8?t=QWgEx6nygkd57xMoASJPQtmkk1TWoaxFJ2lwzF9HLFg&s=1774817318&e=43200&v=157707738&srv=s1&i=0.0&sp=0&fr=m0telmxlo7ns&r=e
 
 #EXTINF:-1 group-title="Peliculas",Inocencia interrumpida 
@@ -37,3 +38,18 @@ https://edge1-madrid-sprintcdn.r66nv9ed.com/hls2/09/10290/6xmphuo575oh_x/master.
 
 #EXTINF:-1 group-title="Peliculas",THUNDERBOLTS 
 https://stream-4091-31-168.pkcdn.org/dash/kuoho7syb4iepqf2maw7sn2ogv2hsn2laylwvfzkcunlurxb7zn36qf2xy/manifest.mpd
+
+
+#EXTINF:-1 group-title="Peliculas",Hoppers: Operación castor
+https://playnixes.com/stream/zecpfbaiRqqTL80PBOEs-w/kjhhiuahiuhgihdf/1774861095/69575961/master.m3u8
+
+
+#EXTINF:-1 group-title="Peliculas",Hoppers: Operación castor
+https://edge1-madrid-sprintcdn.r66nv9ed.com/hls2/02/10999/zxzggpdbkwnz_x/index-v1-a1.m3u8?t=Z89RzF7DN7KA4ES0kiq9m5YQnP_02LXsaFwI6p7aLck&s=1774818049&e=10800&f=54999247&srv=1055&asn=8151&sp=5500&p=0
+
+
+#EXTINF:-1 group-title="Peliculas",Scream 7
+https://edge2-waw-sprintcdn.r66nv9ed.com/hls2/07/10916/xye8v8h53q75_n/index-v1-a1.m3u8?t=IZmYia8C14o6I9zssUEVmj4vopY0tyw0TEdAQkAr1Fc&s=1774818117&e=10800&f=54582414&srv=1065&asn=8151&sp=5500&p=0
+
+
+
