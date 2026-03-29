@@ -1,60 +1,20 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="Peliculas",VENGANZA
-https://cdn-xobnnrbejgdrhj4u.edgeon-bandwidth.com/engine/hls2-c/01/16733/zofawuef3jaj_,n,.urlset/master.m3u8?t=WOeEqG5PpG78hVGfOEDhCvi7C1yQiEHFRMMfUyTD_aE&s=1774737727&e=14400&f=83668496&node=zGBu5D2v5eB3O/KB4a4xtvGvDbBUNXxDrrO4ga1VLgc=&i=189.239&sp=2500&asn=8151&q=n&rq=kXaiDkrT7JLy26oRAwPGPdzWG0tusVxGqGO7sE7F
-
-#EXTINF:-1 group-title="Peliculas",PROYECTO FIN DEL MUNDO
-https://cdn-kuc3ehpz4wnczfyz.edgeon-bandwidth.com/engine/hls2-c/01/16821/gmw2giyccys8_,n,.urlset/master.m3u8?t=sn_TsIQn11FfbuFUgfcOgoX9rk26hln8EmbGaLwAYJY&s=1774727125&e=14400&f=84107273&node=b4MgftQUpOLAOh+X4oqhhtz3ReeNu3r16rsrI8ruKi8=&i=189.239&sp=2500&asn=8151&q=n&rq=pMraYA2lD0A00qkstNIL93RRaKALxCeGqjddt9qm
-
-#EXTINF:-1 group-title="Peliculas",Cumbres Borrascosas
-https://cdn-5oon8upkzi1zeghh.edgeon-bandwidth.com/engine/hls2-c/01/16776/gejhwjfodclg_,n,.urlset/master.m3u8?t=xSnhX-vHf4kaBtxxdRA7IupVIoIltqM0bfDFfqofXTw&s=1774737836&e=14400&f=83882764&node=CNK4WWrubaTLiOtDbVIU9Ci4WeFvRzGKPoG7NQE/2NQ=&i=189.239&sp=2500&asn=8151&q=n&rq=kXaiDkrT7JLy26oRAwPGPdzWG0tusVxGqGO7sE7F
-
-#EXTINF:-1 group-title="Peliculas",THUNDERBOLTS
-https://t9lr3d.cfglobalcdn.com/silverlight/secip/65906/0/SrLX-sPCqT962Ow2YE2WzQ/MjgwNjoxMDhlOjJmOjUwZTg6MmMwZDo1YTY1OjFjZDQ6NzJlYw==/1774761029/hls-vod-s005/flv/api/files/videos/2025/07/01/1751350156ne7cq.mp4.m3u8
-
-#EXTINF:-1 group-title="Peliculas",THUNDERBOLTS
-https://edge1-waw-sprintcdn.r66nv9ed.com/hls2/08/09387/vez7md4dd84i_x/master.m3u8?t=X4pmj8qgEbxR4VdBE9ThNxjq1fnmRntk7mkd3wK9szA&s=1774740045&e=10800&f=46938327&srv=1070&asn=8151&sp=5500&p=0
-
-#EXTINF:-1 group-title="Peliculas",FRANKENSTEIN
-https://hglamioz.com/stream/uqfmEcQWItQ6HKY7w2xrpw/kjhhiuahiuhgihdf/1774787191/64802324/master.m3u8
-
-#EXTINF:-1 group-title="Peliculas",FRANKENSTEIN FM
-https://edge2-waw-sprintcdn.r66nv9ed.com/hls2/08/10237/ehczyjnbjsov_x/master.m3u8?t=NdsR6WW786EqSzXC-tZJiDlVZhbNSG2P23Gx2K3hm1g&s=1774743909&e=10800&f=51185117&srv=1055&asn=8151&sp=5500&p=0
-
-
-
-#EXTINF:-1 group-title="Peliculas",4 fantasticos LULU STREAM
-https://owfgpcbp6w2a.tnmr.org/hls2/01/02509/n7ssbov96qxn_h/master.m3u8?t=GNFXvTfkoWDmXxsPbJwnffozklSy4Uon3H9mUsRcsMQ&s=1774742561&e=28800&f=12547603&srv=cdn1010&i=0.3&sp=0&p1=owfgpcbp6w2a&p2=owfgpcbp6w2a
-
 #EXTINF:-1 group-title="Peliculas",4 fantasticos FILE MOON
 https://be7713.rcr82.waw05.r66nv9ed.com/hls2/08/09913/c0feq0l22icq_x/master.m3u8?t=frdX9yDT4zDJ8PFNoEnFmp-zrVpEh6jwKXhuiguWoKg&s=1774742108&e=10800&f=49583582&srv=1070&asn=8151&sp=5500&p=0
-
 
 #EXTINF:-1 group-title="Peliculas",4 fantasticos POW VIDEO
 https://stream-4338-55-56.pkcdn.org/dash/kyohoqbxbyikkfn2ma77smq6eut73xw6ymdtu3yn53jynhp344bad3yiyu/manifest.mpd
 
-#EXTINF:-1 group-title="Peliculas",SEND HELP (Enviad ayuda) STREAM WICH
-https://vibuxer.com/stream/WlVpaFc1CPeyLFqfxrkB5w/kjhhiuahiuhgihdf/1774787432/69585215/master.m3u8
+#EXTINF:-1 group-title="Peliculas",Toy Story (1995)
+https://be7713.rcr82.waw05.r66nv9ed.com/hls2/08/09279/2lnqv4qr0dq7_x/master.m3u8?t=yj92yKdUoJUHRQMRw7XrN2gm0ptsZXa4kV1Cjxb6DwM&s=1774753623&e=10800&f=46396915&srv=1070&asn=8151&sp=5500&p=0
 
-#EXTINF:-1 group-title="Peliculas",PEAKY BLINDERS GOODSTREAM
-https://enc12.goodstream.one/hls2/04/00085/zdy0y6ylu3i8_,l,n,h,x,.urlset/master.m3u8?t=P5uf_HWn7CBXBuoV9XIhn__6F7hcJgpa6H1U2dGc6NM&s=1774744354&e=43200&v=254921069&srv=s4&i=0.3&sp=0
+#EXTINF:-1 group-title="Peliculas",Toy Story 2 (1999)
+https://edge1-prague-sprintcdn.r66nv9ed.com/hls2/04/09279/pmldtsybh9is_x/master.m3u8?t=WnXUM5Za1m_XLKdeLEDDPUDC1qO2h7Cv_Nh2hOlJXCk&s=1774753711&e=10800&f=46396967&srv=1050&asn=8151&sp=5500&p=0
 
-#EXTINF:-1 group-title="Peliculas",SEND HELP (Enviad ayuda) SUPERVIDEO
-https://hfs322.serversicuro.cc/hls2/02/00546/,384pm7y0ezdc_n,.urlset/master.m3u8?t=ZVwhnJ_Ry3g0RRnmJXz4YVItmKrJDadNt8nnxbsodYg&s=1774744445&e=10800&v=2044074&srv=hfs306&i=0.0&sp=3000
+#EXTINF:-1 group-title="Peliculas",Toy Story 3 (2010)
+https://edge1-prague-sprintcdn.r66nv9ed.com/hls2/05/09279/e0r493r9e8oi_x/master.m3u8?t=y-TRsnr2FfniUneri2aBYuwEYOrgK5q5JB6-Q4ojycQ&s=1774753771&e=10800&f=46396777&srv=1065&asn=8151&sp=5500&p=0
 
-#EXTINF:-1 group-title="Peliculas",SEND HELP (Enviad ayuda) DROPLOAD
-https://ds16.dropcdn.io/hls2/04/00340/o9g7vfzr16pe_h/master.m3u8?t=2uJ3ISblmoc8ljTiN5TtS7SfypPW0h9rux1-9wXXwb0&s=1774744490&e=14400&f=1700540&srv=ds18&i=0.0&sp=2000&ii=28.212.114.236&p1=ds18&p2=ds18
-
-#EXTINF:-1 group-title="Peliculas",BUGONIA FILE MOON
-https://edge2-waw-sprintcdn.r66nv9ed.com/hls2/10/10666/3na6ezbltmjr_x/master.m3u8?t=Qcq47-H_RoYeezRSWGyXFe0XfbYMMyOW29KpbUTF7G8&s=1774748097&e=10800&f=53332873&srv=1075&asn=8151&sp=5500&p=0
-
-#EXTINF:-1 group-title="Peliculas",BUGONIA VOE
-https://cdn-lx3y0goydwciiimz.edgeon-bandwidth.com/engine/hls2/01/16454/n5q6k5ywxn9t_,n,.urlset/master.m3u8?t=SmhvNm4Oc-8bK61lIXQYfOI-aBa5aW4MTP0Vr-1SRCk&s=1774748162&e=14400&f=83432246&node=FvLLQmFLPprhIaaK7QxxW1GPH4U48RVkH2s8+1QkG/U=&i=189.239&sp=2500&asn=8151&q=n&rq=M548SM8igoWeXtx38L4XQ289sahwbNwhsUZqWMsd
-
-#EXTINF:-1 group-title="Peliculas",LA LA LAND
-https://f9rw3r.cfglobalcdn.com/silverlight/secip/128830/8151/NCG3pKb28zD6tVBEF7ywkQ/MTg5LjIzOS4yMjAuMTc2/1774771646/hls-vod-s0012/flv/api/files/videos/2020/05/15/1589556470ux1es.mp4.m3u8
-
-#EXTINF:-1 group-title="Peliculas",UN HOMBRE POR SEMANA
-
-https://st-us-01.vidsonic.net/secure/316/yolfymx9z3wh/master.m3u8?server_id=3&expires=1774754253&file_id=yolfymx9z3wh&md5=c10953180b923c3c6f76e6a7375042a8
+#EXTINF:-1 group-title="Peliculas",El viaje de Chihiro (2001)
+https://edge2-waw-sprintcdn.r66nv9ed.com/hls2/07/09279/ep7atsekxsdv_x/master.m3u8?t=KE7vABQ_oHUuYNxAjpAy1iD6wSRsx5gJOQ4fmdqamdQ&s=1774753871&e=10800&f=46396210&srv=1060&asn=8151&sp=5500&p=0
